@@ -1,3 +1,17 @@
+# Calculadora desenvolvida utilizando React
+
+### Esse repositório é sobre o Desafio de Projeto da DIO, no qual foi criada uma calculadora utilizando React. 
+
+Essa versão inclui as seguintes atualizações:
+- Alinhamento dos números do visor para a direita.
+- Botão de divisão com o símbolo matemático.
+- Botão zero.
+- Funcionalidade do botão do ponto.
+- Funcionalidade dos botões de dividir e multiplicar.
+- Layout. 
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
