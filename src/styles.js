@@ -2,6 +2,7 @@ import styled from 'styled-components';
 
 export const Container = styled.div`
     width: 100%;
+    min-width: 500px;
     height: 100vh;
     background-color: #CACACA;
 
@@ -12,8 +13,10 @@ export const Container = styled.div`
 
 
 export const Content = styled.div`
-    background-color: #FFFFFF;
-    width: 50%;
+    background-color: #3A3A3A;
+    width: 40%;
+    padding: 10px;
+    border-radius: 5px;
 `
 
 export const Row = styled.div`
